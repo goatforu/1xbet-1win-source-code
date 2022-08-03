@@ -1,6 +1,6 @@
 ## 1xbet-1win-source-code
--#by hukosuqa(sourcehunter) :shipit:
-source code of betting app(1xbet,1win) :space_invader:
+#by hukosuqa(sourcehunter) :shipit:
+*source code of betting app(1xbet,1win)* :space_invader:
 you can buy this source code for 349rs
 
 - steps to buy source code 
