@@ -1,6 +1,6 @@
 ## 1xbet-1win-source-code
 
-![img1](<a href="https://ibb.co/FwSBDmc"><img src="https://i.ibb.co/xjpM7Xw/Screenshot-2022-08-03-083710.png" alt="Screenshot-2022-08-03-083710" border="0" /></a>)
+![url=https://ibb.co/FwSBDmc][img]https://i.ibb.co/xjpM7Xw/Screenshot-2022-08-03-083710.png[/img][/url]
 #by hukosuqa(sourcehunter) :shipit:
 *source code of betting app(1xbet,1win)* :space_invader:
 you can buy this source code for just 349rs
