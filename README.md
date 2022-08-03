@@ -3,7 +3,7 @@
 *source code of betting app(1xbet,1win)* :space_invader:
 you can buy this source code for just 349rs
 
-**steps to buy source code :
+**steps to buy source code :**
 
 - pay 349rs to this account 👇
 - paytm ==> https://p.paytm.me/xCTH/dwgg7yab 
